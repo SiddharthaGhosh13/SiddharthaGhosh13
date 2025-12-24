@@ -7,9 +7,9 @@ AI & ML Enthusiast | Curious Learner</i></h3>
 itzsiddharthaghosh13@gmail.com For
 Collaboration, Projects Etc..
 
-## - 🔭 I’m Currently Working On: 
+## 🔭 I’m Currently Working On: 
 - Building a Personal Portfolio Website. 
-## - 🌱 I’m Currently Learning:
+## 🌱 I’m Currently Learning:
 - C & C++ Programming
 - Data Structures & Algorithms
 - Basic HTML5 & Git/GitHub
@@ -17,14 +17,14 @@ Collaboration, Projects Etc..
 🎯 Goal:
 - Build Strong DSA Foundation
 - Move towards Development & Internships
-## - 🛠 Skills:
+## 🛠 Skills:
 - C++
 - C
 - Basic HTML
 - Git & GitHub
-## - 📌 Projects:
+## 📌 Projects:
 - SGPA Calculator (C++)
 - Percentage Calculator (C)
-## - 📚 Problem Solving:
+## 📚 Problem Solving:
 - Practicing C++ DSA problems
 - Solving LeetCode Problems 
