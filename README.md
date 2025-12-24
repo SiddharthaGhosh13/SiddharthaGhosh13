@@ -1,16 +1,30 @@
-## Hi there 👋
+# <h2><i>Hi, I'm Siddhartha Ghosh 👋</i></h2>
 
-<!--
-**SiddharthaGhosh13/SiddharthaGhosh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><i>Aspiring Software Engineer | 
+AI & ML Enthusiast | Curious Learner</i></h3>
 
-Here are some ideas to get you started:
+<i>You Can reach Me at 📫:
+itzsiddharthaghosh13@gmail.com For
+Collaboration, Projects Etc..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## - 🔭 I’m Currently Working On: 
+- Building a Personal Portfolio Website. 
+## - 🌱 I’m Currently Learning:
+- C & C++ Programming
+- Data Structures & Algorithms
+- Basic HTML5 & Git/GitHub
+
+🎯 Goal:
+- Build Strong DSA Foundation
+- Move towards Development & Internships
+## - 🛠 Skills:
+- C++
+- C
+- Basic HTML
+- Git & GitHub
+## - 📌 Projects:
+- SGPA Calculator (C++)
+- Percentage Calculator (C)
+## - 📚 Problem Solving:
+- Practicing C++ DSA problems
+- Solving LeetCode Problems 
