@@ -1,30 +1,28 @@
 # <h2><i>Hi, I'm Siddhartha Ghosh 👋</i></h2>
 
-<h3><i>Aspiring Software Engineer | 
-AI & ML Enthusiast | Curious Learner</i></h3>
+<h3>Aspiring Software Engineer | AI & ML Enthusiast | Curious Learner</h3>
 
-<i>You Can reach Me at 📫:
-itzsiddharthaghosh13@gmail.com For
-Collaboration, Projects Etc..
+Contact 📫:<br>
+Email: itzsiddharthaghosh13@gmail.com For Collaboration, Projects Etc..
 
-## 🔭 I’m Currently Working On: 
+## I’m Currently Working On: 
 - Building a Personal Portfolio Website. 
-## 🌱 I’m Currently Learning:
+## I’m Currently Learning:
 - C & C++ Programming
 - Data Structures & Algorithms
-- Basic HTML5 & Git/GitHub
+- Basic HTML5 & Git/GitHub <br>
 
 🎯 Goal:
 - Build Strong DSA Foundation
 - Move towards Development & Internships
-## 🛠 Skills:
+## Skills:
 - C++
 - C
 - Basic HTML
 - Git & GitHub
-## 📌 Projects:
+## Projects:
 - SGPA Calculator (C++)
 - Percentage Calculator (C)
-## 📚 Problem Solving:
+## Problem Solving:
 - Practicing C++ DSA problems
 - Solving LeetCode Problems 
