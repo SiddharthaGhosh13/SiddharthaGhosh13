@@ -11,7 +11,6 @@ Email: itzsiddharthaghosh13@gmail.com For Collaboration, Projects Etc..
 - C & C++ Programming
 - Data Structures & Algorithms
 - Basic HTML5 & Git/GitHub <br>
-
 🎯 Goal:
 - Build Strong DSA Foundation
 - Move towards Development & Internships
@@ -21,8 +20,8 @@ Email: itzsiddharthaghosh13@gmail.com For Collaboration, Projects Etc..
 - Basic HTML
 - Git & GitHub
 ## Projects:
-- SGPA Calculator (C++)
-- Percentage Calculator (C)
+- SGPA Calculator (C)
+- Percentage Calculator (C++)
 ## Problem Solving:
 - Practicing C++ DSA problems
 - Solving LeetCode Problems 
