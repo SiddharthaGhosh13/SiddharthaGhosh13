@@ -10,14 +10,14 @@ Email: itzsiddharthaghosh13@gmail.com For Collaboration, Projects Etc..
 ## I’m Currently Learning:
 - C & C++ Programming
 - Data Structures & Algorithms
-- Basic HTML5 & Git/GitHub <br>
+- Basic HTML5, CSS3 & Git/GitHub
 🎯 Goal:
 - Build Strong DSA Foundation
 - Move towards Development & Internships
 ## Skills:
 - C++
 - C
-- Basic HTML
+- Basic HTML5, CSS3
 - Git & GitHub
 ## Projects:
 - SGPA Calculator (C)
