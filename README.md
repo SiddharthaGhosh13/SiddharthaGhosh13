@@ -1,9 +1,9 @@
 # <h2>Hi, I'm Siddhartha Ghosh 👋</h2>
 
-<h3>Aspiring Software Engineer | Python & AI | C/C++ Problem Solver
-Focused on Automation, APIs, and Real-World Projects
-Future Tech Entrepreneur on a Mission to Build Impactful Solutions
-</h3>
+<h3>Aspiring Software Engineer | Python & AI | C/C++ Problem Solver</h3><br>
+- Focused on Automation, APIs, and Real-World Projects<br>
+- Future Tech Entrepreneur on a Mission to Build Impactful Solutions
+
 
 Contact:<br>
 Email: itzsiddharthaghosh13@gmail.com for Collaboration, Projects etc..
@@ -33,17 +33,17 @@ Currently, I am working on:
 
 ## Tech Stack:
 
-Languages
+<b>Languages:</b>
 - C / C++
 - Python
 - Java  
 
-Tools & Technologies
+<b>Tools & Technologies:</b>
 - Git & GitHub
 - Linux & Shell Scripting 
 - APIs & JSON Handling
 
-Core Concepts
+<b>Core Concepts:</b>
 - Data Structures 
 - Object Oriented Programming
 - Operating Systems
