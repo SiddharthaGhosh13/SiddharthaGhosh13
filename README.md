@@ -1,8 +1,8 @@
 # <h2>Hi, I'm Siddhartha Ghosh 👋</h2>
 
 <h3>Aspiring Software Engineer | Python & AI | C/C++ Problem Solver</h3><br>
-- Focused on Automation, APIs, and Real-World Projects<br>
-- Future Tech Entrepreneur on a Mission to Build Impactful Solutions
+Focused on Automation, APIs, and Real-World Projects<br>
+Future Tech Entrepreneur on a Mission to Build Impactful Solutions
 
 
 Contact:<br>
