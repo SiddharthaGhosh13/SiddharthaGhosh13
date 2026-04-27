@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Aspiring+ML+%2F+NLP+Engineer;Founder+%40+MoralUP.AI;Campus+Ambassador+%40+E-Cell+IIT+Bombay;Building+AI+that+actually+matters." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Aspiring+AI+%2F+ML+Engineer;Campus+Ambassador+%40+E-Cell+IIT+Bombay;Building+AI+that+Actually+Matters!." alt="Typing SVG" />
 </p>
 
 ---
@@ -76,7 +76,3 @@ Siddhartha = {
 ⭐ **Actively Seeking AI/ML Internship Opportunities!**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthaGhosh13&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
